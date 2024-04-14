@@ -29,7 +29,7 @@ Multiply 100 random matrices of size 1k x 1k with a constant matrix of size 1k x
 | Time taken (sec) | 183.929 | 109.7576            | 78.0964            | 65.6599 | 53.8146            | 49.3818 | 46.3503            | 51.5329            |
 
 
-![graph](![download_Multithreading](https://github.com/YashPurii/Multi_theading_102103812/assets/109721627/5171aea1-8fac-40de-8139-992c8d138efd))
+![graph](https://github.com/YashPurii/Multi_theading_102103812/assets/109721627/5171aea1-8fac-40de-8139-992c8d138efd)
 
 
 
